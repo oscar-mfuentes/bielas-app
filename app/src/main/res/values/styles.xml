@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="LoginUserInput">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="LoginLayoutUserInput">
+        <item name="android:textColorHint">@color/light</item>
+        <item name="android:colorControlNormal">@color/light</item>
+        <item name="android:colorControlActivated">@color/light</item>
+    </style>
+
+    <style name="LoginPasswdInput">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="LoginLayoutPasswdInput">
+        <item name="android:textColorHint">@color/light</item>
+        <item name="android:colorControlNormal">@color/light</item>
+        <item name="android:colorControlActivated">@color/light</item>
+    </style>
+</resources>
