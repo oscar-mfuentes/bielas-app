@@ -3,4 +3,5 @@
     <string name="app_name">Bielas</string>
     <string name="user_name">User</string>
     <string name="passwd">Password</string>
+    <string name="login_button">Login</string>
 </resources>

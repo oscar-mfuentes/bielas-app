@@ -2,4 +2,5 @@
     <string name="app_name">Bielas</string>
     <string name="user_name">Usuario</string>
     <string name="passwd">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
 </resources>

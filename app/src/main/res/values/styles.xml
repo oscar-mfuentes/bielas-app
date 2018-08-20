@@ -8,6 +8,7 @@
         <item name="android:textColorHint">@color/light</item>
         <item name="android:colorControlNormal">@color/light</item>
         <item name="android:colorControlActivated">@color/light</item>
+        <item name="android:colorControlHighlight">@color/light</item>
     </style>
 
     <style name="LoginPasswdInput">
@@ -18,5 +19,6 @@
         <item name="android:textColorHint">@color/light</item>
         <item name="android:colorControlNormal">@color/light</item>
         <item name="android:colorControlActivated">@color/light</item>
+        <item name="android:colorControlHighlight">@color/light</item>
     </style>
 </resources>
